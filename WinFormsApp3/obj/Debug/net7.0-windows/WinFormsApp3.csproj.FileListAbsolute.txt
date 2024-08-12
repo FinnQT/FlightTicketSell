@@ -1,0 +1,110 @@
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.exe
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fManager.resources
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Form1.resources
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fQuanly.resources
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\refint\WinFormsApp3.dll
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.pdb
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.deps.json
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.runtimeconfig.json
+D:\winform_app\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.pdb
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\winform_app\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\ref\WinFormsApp3.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.exe
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.deps.json
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.pdb
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fManager.resources
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fQuanly.resources
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\refint\WinFormsApp3.dll
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.pdb
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\ref\WinFormsApp3.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.exe
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.deps.json
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.runtimeconfig.json
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.pdb
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Form1.resources
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fQuanly.resources
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\refint\WinFormsApp3.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.pdb
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\ref\WinFormsApp3.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.QuanlyUse.resources
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\itextsharp.dll
+D:\winform_app\qlbm\WinFormsApp3\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.exe
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.deps.json
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\WinFormsApp3.pdb
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.fQuanly.resources
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.QuanlyUse.resources
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\refint\WinFormsApp3.dll
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.pdb
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Dell\Downloads\DoAn (1)\WinFormsApp3\WinFormsApp3\obj\Debug\net7.0-windows\ref\WinFormsApp3.dll
